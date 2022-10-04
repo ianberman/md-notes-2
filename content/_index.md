@@ -1,5 +1,5 @@
 ---
-title: 🔉 Ian Berman
+title: Ian Berman
 enableToc: false
 ---
 
@@ -9,6 +9,8 @@ I make sounds for films and interactive art.
 I'm particularly interested in realtime generative audio, human-computer interaction, and developing more equitable + sustainable infrastructures for arts and living.
 
 Bay Area -> NYC ; BA 2019 NYU Gallatin - Sound Art, Technology & Urban Studies. 
+
+Production sound kit [HERE](/kit)
 
 #### Selected Work
 - [Despelote](https://despelotegame.com)
@@ -22,5 +24,3 @@ Bay Area -> NYC ; BA 2019 NYU Gallatin - Sound Art, Technology & Urban Studies.
 - contact at ianjb dot com
 - [twitter](https://twitter.com/speculativename)
 - [github](https://github.com/ianberman)
-
-Production sound kit [HERE](/kit)
