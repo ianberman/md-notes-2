@@ -8,7 +8,7 @@ I make sounds for films and interactive art.
 
 I'm particularly interested in realtime generative audio, human-computer interaction, and developing more equitable + sustainable infrastructures for arts and living.
 
-I grew up in the Bay Area and live in Ridgewood, New York. BA 2019 NYU Gallatin - Sound Art, Technology & Urban Studies. 
+Bay Area -> NYC ; BA 2019 NYU Gallatin - Sound Art, Technology & Urban Studies. 
 
 #### Selected Work
 - [Despelote](https://despelotegame.com)
@@ -19,8 +19,8 @@ I grew up in the Bay Area and live in Ridgewood, New York. BA 2019 NYU Gallatin 
 - [Stressed Out](https://elara.world/film/short/stressed-out)
 
 #### Contact
-- email
-- twitter
-- github
+- contact at ianjb dot com
+- [twitter](https://twitter.com/speculativename)
+- [github](https://github.com/ianberman)
 
-Production sound [[kit]]
+Production sound kit [HERE](/kit)
