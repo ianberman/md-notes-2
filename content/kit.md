@@ -1,6 +1,6 @@
 ---
 title: Sound Kit
-enableToc: true
+enableToc: false
 ---
 
 `contact at ianjb dot com` for a quote. Additional equipment available on request.

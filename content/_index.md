@@ -15,14 +15,9 @@ Production sound kit [HERE](/kit)
 #### Selected Work
 - Multimedia
 	- [Despelote](https://despelotegame.com) (Video Game)
-	- [In the Style Of...](https://github.com/ianberman/In-The-Style-Of...) (Max/msp project using IRCAM's MuBu)
-- Films
+	- [In the Style Of...](https://github.com/ianberman/In-The-Style-Of...) (Max/msp proto-ML project)
+- Film
 	- [Little Jerry](https://www.instagram.com/p/ChdvUp4s-cp/?utm_source=ig_web_copy_link) (NYFF)
 	- [Moon Hoax](https://harrisonfishman.com/MOON-HOAX) (Adult Swim)
 	- [Seriously, Sincerely](https://elara.world/film/short/seriously-sincerely) (Elara)
 	- [Stressed Out](https://elara.world/film/short/stressed-out) (Elara)
-
-#### Contact
-- `contact at ianjb dot com`
-- [twitter](https://twitter.com/speculativename)
-- [github](https://github.com/ianberman)
