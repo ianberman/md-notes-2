@@ -1,9 +1,9 @@
 ---
 title: Sound Kit
-enableToc: false
+enableToc: true
 ---
 
-Please [contact](mailto:contact@ianjb.com) for a quote. Additional equipment available on request.
+Email `contact@ianjb.com` for a quote. Additional equipment available on request.
 
 Basic Kit:
 - Sound Devices Mixpre10tii

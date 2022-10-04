@@ -21,6 +21,6 @@ Production sound kit [HERE](/kit)
 - [Stressed Out](https://elara.world/film/short/stressed-out)
 
 #### Contact
-- contact at ianjb dot com
+- `contact@ianjb.com`
 - [twitter](https://twitter.com/speculativename)
 - [github](https://github.com/ianberman)
