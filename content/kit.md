@@ -3,18 +3,18 @@ title: Sound Kit
 enableToc: true
 ---
 
-Email `contact@ianjb.com` for a quote. Additional equipment available on request.
+`contact at ianjb dot com` for a quote. Additional equipment available on request.
 
 Basic Kit:
 - Sound Devices Mixpre10tii
 - Wireless
-- Lectrosonics SRc A1
-- 2x Lectrosonics SMDWB A1
-- 2x Sanken Cos11-d lavaliers
+	- Lectrosonics SRc A1
+	- 2x Lectrosonics SMDWB A1
+	- 2x Sanken Cos11-d lavaliers
 - Wired
-- 11'6" vDB boom pole
-- Sanken CS-3e (shotgun)
-- Sennheiser MKH50 (supercardiod)
+	- 11'6" vDB boom pole
+	- Sanken CS-3e (shotgun)
+	- Sennheiser MKH50 (supercardiod)
 
 Additional wireless:
 - Lectrosonics SRb
