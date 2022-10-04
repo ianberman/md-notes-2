@@ -1,27 +1,26 @@
 ---
-title: 🪴 Quartz 3.
+title: 🔉 Ian Berman
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+#### About
+I make sounds for films and interactive art.
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+I'm particularly interested in realtime generative audio, human-computer interaction, and developing more equitable + sustainable infrastructures for arts and living.
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+I grew up in the Bay Area and live in Ridgewood, New York. BA 2019 NYU Gallatin - Sound Art, Technology & Urban Studies. 
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+#### Selected Work
+- [Despelote](https://despelotegame.com)
+- [Little Jerry](https://www.instagram.com/p/ChdvUp4s-cp/?utm_source=ig_web_copy_link)
+- [Moon Hoax](https://harrisonfishman.com/MOON-HOAX)
+- [In the Style Of...](https://github.com/ianberman/In-The-Style-Of...)
+- [Seriously, Sincerely](https://elara.world/film/short/seriously-sincerely)
+- [Stressed Out](https://elara.world/film/short/stressed-out)
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+#### Contact
+- email
+- twitter
+- github
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+Production sound [[kit]]
