@@ -21,16 +21,20 @@ Additional wireless:
 - Lectrosonics SMDa + SMa
 - Cos11 + DPA microphones
 - 3x Sennheiser G3 pairs
+
 Client monitoring:
 - Comtek M-216 opt 7 transmitter
 - 5x Comtek PR-216 receivers w/ headphones
+
 Timecode:
 - Up to 4x Tentacle sync e timecode generators w/ cables
 - Denecke TS-3 timecode slate
+
 Plant mics:
 - 1x DPA 4097 gooseneck mic
 - 2x tentacle track e timecode synced 32-bit float recorders
 - Sennheiser MKH-416 shotgun mic
+
 Ambience & experimental recording:
 - LOM mikroUši Pro matched omni AB stereo pair
 - LOM Geofón seismic measurement mic
