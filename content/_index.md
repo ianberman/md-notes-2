@@ -8,7 +8,7 @@ I make sounds for films and interactive art.
 
 I'm particularly interested in realtime generative audio, human-computer interaction, and developing more equitable + sustainable infrastructures for arts and living.
 
-Bay Area -> NYC ; BA 2019 NYU Gallatin - Sound Art, Technology & Urban Studies. 
+BA 2019 NYU Gallatin - Sound Art, Technology & Urban Studies. 
 
 Production sound kit [HERE](/kit)
 
@@ -21,3 +21,5 @@ Production sound kit [HERE](/kit)
 	- [Moon Hoax](https://harrisonfishman.com/MOON-HOAX) (Adult Swim)
 	- [Seriously, Sincerely](https://elara.world/film/short/seriously-sincerely) (Elara)
 	- [Stressed Out](https://elara.world/film/short/stressed-out) (Elara)
+- Commercial
+	- [F1 Car SFX Recording](https://www.youtube.com/watch?v=NuBRjCqDsdI) (Red Bull)
