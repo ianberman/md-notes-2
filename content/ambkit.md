@@ -5,7 +5,7 @@ enableToc: false
 
 email `contact at ianjb dot com` for a quote. Additional equipment available on request.
 
-Recorders
+Recorders:
 - Sound Devices Mixpre6ii
 - Sony PCM-M10
 
