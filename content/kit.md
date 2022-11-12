@@ -34,8 +34,3 @@ Plant mics:
 - 1x DPA 4097 gooseneck mic
 - 2x tentacle track e timecode synced 32-bit float recorders
 - Sennheiser MKH-416 shotgun mic
-
-Ambience & experimental recording:
-- LOM mikroUši Pro matched omni AB stereo pair
-- LOM Geofón seismic measurement mic
-- Contact mics

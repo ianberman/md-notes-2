@@ -11,6 +11,7 @@ I'm particularly interested in realtime generative audio, human-computer interac
 BA 2019 NYU Gallatin - Sound Art, Technology & Urban Studies. 
 
 Production sound kit [HERE](/kit)
+Ambience & experimental recording kit [HERE](/ambkit)
 
 #### Selected Work
 - Multimedia
@@ -23,3 +24,4 @@ Production sound kit [HERE](/kit)
 	- [Stressed Out](https://elara.world/film/short/stressed-out) (Elara)
 - Commercial
 	- [F1 Car SFX Recording](https://www.youtube.com/watch?v=NuBRjCqDsdI) (Red Bull)
+	- Ads for NYT, Reebok, Meta, Pirelli, etc. available on request.
