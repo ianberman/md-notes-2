@@ -16,7 +16,7 @@ Ambience & experimental recording kit [HERE](./ambkit)
 #### Current Projects
 - Field recording in Ecuador for [Despelote](https://despelotegame.com), an upcoming indie game
 - Podcast editing + generative art for [Interdependence Podcast](https://interdependence.fm)
-- Sound design + music using [Dance Diffusion](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb), [RAVE](https://github.com/acids-ircam/RAVE) + [SampleRNN](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb)
+- Sound design + music using [Dance Diffusion](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb), [RAVE](https://github.com/acids-ircam/RAVE) + [SampleRNN](https://github.com/rncm-prism/prism-samplernn)
 
 #### Selected Past Work
 - Multimedia
