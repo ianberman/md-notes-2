@@ -1,18 +1,16 @@
 ---
-title: Production Sound Kit
+title: Selected film sound work
 enableToc: false
 ---
-## Selected film sound work
-
-- Film
-	- [Little Jerry](https://www.instagram.com/p/ChdvUp4s-cp/?utm_source=ig_web_copy_link) (NYFF)
-	- [Moon Hoax](https://harrisonfishman.com/MOON-HOAX) (Adult Swim)
-	- [The Sweet East](https://letterboxd.com/film/the-sweet-east/) (upcoming feature)
-	- [Seriously, Sincerely](https://elara.world/film/short/seriously-sincerely) (Elara)
-	- [Stressed Out](https://elara.world/film/short/stressed-out) (Elara)
-- Commercial
-	- [Red Bull F1 Car SFX Recording](https://www.youtube.com/watch?v=NuBRjCqDsdI)
-	- [2023 Pirelli Calendar doc](https://www.youtube.com/watch?v=lhLUFXfGT8I)
+Film
+- [Little Jerry](https://www.instagram.com/p/ChdvUp4s-cp/?utm_source=ig_web_copy_link) (NYFF)
+- [Moon Hoax](https://harrisonfishman.com/MOON-HOAX) (Adult Swim)
+- [The Sweet East](https://letterboxd.com/film/the-sweet-east/) (upcoming feature)
+- [Seriously, Sincerely](https://elara.world/film/short/seriously-sincerely) (Elara)
+- [Stressed Out](https://elara.world/film/short/stressed-out) (Elara)
+Commercial
+- [Red Bull F1 Car SFX Recording](https://www.youtube.com/watch?v=NuBRjCqDsdI)
+- [2023 Pirelli Calendar doc](https://www.youtube.com/watch?v=lhLUFXfGT8I)
 
 ---
 
