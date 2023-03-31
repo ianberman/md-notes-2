@@ -4,30 +4,13 @@ enableToc: false
 ---
 
 #### About
-I make sounds for films and interactive art.
-
-I'm particularly interested in realtime generative audio, human-computer interaction, and developing more equitable + sustainable infrastructures for arts and living.
-
-BA 2019 NYU Gallatin - Sound Art, Technology & Urban Studies. 
-
-Production sound kit [HERE](./kit)
-Ambience & experimental recording kit [HERE](./ambkit)
+I'm an artist working primarily with sound and computation. I'm particularly interested in realtime generative audio, human-computer interaction, and developing more equitable + sustainable infrastructures for arts and living.
 
 #### Current Projects
-- Field recording in Ecuador for [Despelote](https://despelotegame.com), an upcoming indie game
-- Podcast editing + generative art for [Interdependence Podcast](https://interdependence.fm)
-- Sound design + music using [Dance Diffusion](https://colab.research.google.com/github/Harmonai-org/sample-generator/blob/main/Dance_Diffusion.ipynb), [RAVE](https://github.com/acids-ircam/RAVE) + [SampleRNN](https://github.com/rncm-prism/prism-samplernn)
+- [Despelote](https://despelotegame.com) - upcoming indie game. I'm handling the dialogue and sound design, which emphasizes field recordings taken across Quito, Ecuador.
+- [Herndon Dryhurst Studio](https://herndondryhurst.studio/) - audio editing and generative art for the Interdependence podcast + assisting with upcoming multimedia projects
 
-#### Selected Past Work
-- Multimedia
-	- [In the Style Of...](https://github.com/ianberman/In-The-Style-Of...) (Max/msp proto-ML project)
-- Film
-	- [Little Jerry](https://www.instagram.com/p/ChdvUp4s-cp/?utm_source=ig_web_copy_link) (NYFF)
-	- [Moon Hoax](https://harrisonfishman.com/MOON-HOAX) (Adult Swim)
-	- [The Sweet East](https://letterboxd.com/film/the-sweet-east/) (upcoming feature)
-	- [Seriously, Sincerely](https://elara.world/film/short/seriously-sincerely) (Elara)
-	- [Stressed Out](https://elara.world/film/short/stressed-out) (Elara)
-- Commercial
-	- [Red Bull F1 Car SFX Recording](https://www.youtube.com/watch?v=NuBRjCqDsdI)
-	- [2023 Pirelli Calendar doc](https://www.youtube.com/watch?v=lhLUFXfGT8I)
-- Additional projects for HBO, NYT, Reebok, Meta, etc. available on request.
+#### Past Work
+In New York I primarily worked as a production sound mixer and post sound designer for indie films and commercials. You can find a gear list and some selected past projects [here](./filmsound).
+I also studied at NYU and spent a semester at IRCAM, where I developed a [style transfer tool](https://github.com/ianberman/In-The-Style-Of...) using thier Mubu suite for audio mosaicing and concatanative resynthesis within Max/MSP.
+If you'd like to know more, please get in touch!
