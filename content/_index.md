@@ -8,7 +8,7 @@ I'm an artist working primarily with sound and computation. I'm particularly int
 
 #### Current Projects
 - [Despelote](https://despelotegame.com) - upcoming indie game. I'm handling the dialogue and sound design, which emphasizes field recordings taken across Quito, Ecuador.
-- [Herndon Dryhurst Studio](https://herndondryhurst.studio/) - audio editing and generative art for the Interdependence podcast + assisting with upcoming multimedia projects
+- [Herndon Dryhurst Studio](https://herndondryhurst.studio/) - audio editing and generative art for the Interdependence podcast + assisting with upcoming multimedia projects.
 
 #### Past Work
 From 2020-2022, I primarily worked as a production sound mixer and post sound designer for indie films and commercials in New York City. You can find a gear list and some selected past projects [here](./filmsound).
