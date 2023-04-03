@@ -1,5 +1,5 @@
-name: Jacky Zhao
-enableToc: true
+name: Ian
+enableToc: false
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -7,23 +7,21 @@ enableCodeBlockTitle: true
 enableCodeBlockCopy: true
 enableCallouts: true
 enableSPA: true
-enableFooter: true
+enableFooter: false
 enableContextualBacklinks: true
 enableRecentNotes: false
-enableGitHubEdit: true
-enableMermaid: true
+enableGitHubEdit: false
 GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
-search:
-  enableSemanticSearch: false
-  operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
-  operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
+enableSemanticSearch: false
+operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  Ian Berman - Artist, Sound & Computation - Berlin
 page_title:
-  "🪴 Quartz 3.3"
+  "🔉 Ian Berman"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/speculativename
+  - link_name: Email
+    link: mailto:contact@ianjb.com
   - link_name: GitHub
-    link: https://github.com/jackyzha0
+    link: https://github.com/ianberman
