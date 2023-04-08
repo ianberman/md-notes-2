@@ -13,6 +13,6 @@ I'm an artist working primarily with sound and computation. I'm particularly int
 #### Past Work
 From 2020-2022, I primarily worked as a production sound mixer and post sound designer for indie films and commercials in New York City. You can find a gear list and some selected past projects [here](./filmsound).
 
-Before that, I studied at NYU, and (among many other things) spent a semester at IRCAM, where I developed a [style transfer tool](https://github.com/ianberman/In-The-Style-Of...) using thier Mubu suite for audio mosaicing and concatanative resynthesis within Max/MSP.
+Before that, I studied at NYU, and (among many other things) spent a semester at IRCAM, where I developed a [style transfer tool](https://github.com/ianberman/In-The-Style-Of...) using their Mubu suite for audio mosaicing and concatanative resynthesis within Max/MSP.
 
 If you'd like to know more, get in touch below! 
