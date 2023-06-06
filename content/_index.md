@@ -8,7 +8,7 @@ I'm an artist working primarily with sound and computation. I'm particularly int
 
 #### Current Projects
 - [Despelote](https://despelotegame.com) - upcoming video game. I'm handling the dialogue and sound design, which emphasizes field recordings taken across Quito, Ecuador.
-- [Herndon Dryhurst Studio](https://herndondryhurst.studio/) - assistance developing upcoming projects using ML tools, custom training data, and Holly+. Also, audio editing and generative art for the Interdependence podcast.
+- [Herndon Dryhurst Studio](https://herndondryhurst.studio/) - assistance developing upcoming projects using ML tools, custom training data, and Holly+. Audio editing and generative art for the Interdependence podcast.
 - [Marianna Simnett](https://mariannasimnett.com/) - research and training data preparation for an upcoming performance using real-time audio style transfer and voice modeling software. 
 
 #### Past Work
