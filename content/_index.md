@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 #### About
-I'm an artist working primarily with sound and computation. I'm particularly interested in realtime generative audio, human-machine interaction, and developing more equitable + sustainable infrastructures for arts and living.
+I'm an artist working primarily with sound and computation. Particularly interested in realtime generative audio, human-machine interaction, and developing more equitable + sustainable infrastructures for arts and living.
 
 #### Current Projects
 - [Despelote](https://despelotegame.com) - upcoming video game. I'm handling the dialogue and sound design, which emphasizes field recordings taken across Quito, Ecuador.
